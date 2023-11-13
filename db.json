@@ -1,0 +1,28 @@
+{
+"oficina" : "Edificio Principal",
+"moneda" : "HNL",
+"tipoCuenta": "Cheques",
+"fechaApertura" : "20231027",
+"cliente" : [
+{
+"tipoCliente" : "Títular",
+"numeroIdentificacion" : "1201198900444",
+"rtn" : "12011989004441",
+"nombreCliente" : "Petronila Josefina Martinez",
+"direccionCliente" : "Calle Wallaby 42 Syndey",
+"cif" : "0123456789",
+"clasificacionFirmas" : "C",
+"tipoFirma" : "Mancomunada"
+},
+{
+"tipoCliente" : "Adicional",
+"numeroIdentificacion" : "1201199300719",
+"RTN" : "",
+"nombreCliente" : "Anita Casimira Gonzales",
+"direccionCliente" : "",
+"cif" : "",
+"clasificacionFirmas" : "B",
+"tipoFirma" : "Mancomunada"
+}
+]
+}
